@@ -1,5 +1,4 @@
 # Hello-world
-Another one bites the dust
 
 Hey there fellow on-lookers!
 
